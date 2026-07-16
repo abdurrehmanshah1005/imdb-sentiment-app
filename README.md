@@ -137,6 +137,6 @@ Framework:
 
 **Abdur Rehman Shah**
 
-GitHub: https://github.com/abdurrehmanshah
+GitHub: https://github.com/abdurrehmanshah1005
 
 Hugging Face: https://huggingface.co/abdurrehmanshah
