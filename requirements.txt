@@ -1,0 +1,5 @@
+transformers==4.52.4
+huggingface_hub==0.32.6
+torch==2.13.0
+gradio
+safetensors
